@@ -19,10 +19,6 @@ public class Principal {
 		int numPag, menuPrin, indice;
 		float precio;
 
-		// Realizando nueva funcionalidad
-		float numero1 = 3.1416f;
-		System.out.println("El resultado de pi es " + numero1);
-
 		Libros libro;
 
 		LogicaMetodos imp = new LogicaMetodos();
